@@ -1,5 +1,6 @@
 package main
 
+// добавляем библиотеку
 import (
 	"fmt"
 )
